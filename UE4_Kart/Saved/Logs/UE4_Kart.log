@@ -804,3 +804,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.27-09.23.44:560][161]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.27-09.23.44:561][161]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/MAP_Debug_BuiltData.MAP_Debug_BuiltData
 [2021.04.27-09.23.44:561][161]LogContentValidation: Display: Validating World /Game/Map/MAP_Debug.MAP_Debug
+[2021.04.27-09.58.44:260][492]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{c533f0b2-705a-41ec-8690-91d50dbdc4df}.
+[2021.04.27-09.58.44:612][492]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.27-09.58.44:981][492]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-09.58.44:981][492]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-09.58.45:554][493]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.27-09.58.45:633][493]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-09.58.45:634][493]LogAudioMixer: Display: 1: FrontRight
