@@ -4,3 +4,6 @@ Alpha 1.02 og 1.03 blev uploaded og fremvist for IT/Tek.
 15/09-2021:
 Update Log er blevet lavet så vi kan holde styr på hvad der bliver lavet.
 Event Tick er blevet erstattet af en "30th sec" event som kører hver 0,03 sekund (1/30 af sekund). Dette sikrer at hvis man stadig har en lav framerate, så kører man lige langt.
+
+07/10-2021:
+Nicolai jeg er så stolt af dig
